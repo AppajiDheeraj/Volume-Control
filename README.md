@@ -63,19 +63,19 @@ Make sure your webcam is connected and functioning properly.
 
 ## 📸 Screenshots <br>
 <!-- Add screenshots if needed -->
--Volume bar on screen
+- Volume bar on screen
 
--Real-time hand detection
+- Real-time hand detection
 
--Line and circles connecting thumb and index
+- Line and circles connecting thumb and index
 
 ---
 
 ## 🤝 Credits <br>
--MediaPipe
+- MediaPipe
 
--OpenCV
+- OpenCV
 
--Pycaw
+- Pycaw
 
--Idea inspired by Computer Vision gesture control systems
+- Idea inspired by Computer Vision gesture control systems
