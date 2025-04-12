@@ -3,7 +3,7 @@
 Control your **system volume** using just your **hand gestures and webcam**!  
 This project uses **MediaPipe**, **OpenCV**, and **Pycaw** to detect your fingers and adjust volume based on their distance.
 
-https://user-images.githubusercontent.com/your-demo.gif <!-- Optional: Add demo GIF -->
+![Demo](volume-ezgif.com-optimize.gif)
 
 ---
 
@@ -58,16 +58,6 @@ Make sure your webcam is connected and functioning properly.
 |--------|--------------------|
 | 🤏     | Decrease volume     |
 | 👐     | Increase volume     |
-
----
-
-## 📸 Screenshots <br>
-<!-- Add screenshots if needed -->
-- Volume bar on screen
-
-- Real-time hand detection
-
-- Line and circles connecting thumb and index
 
 ---
 
